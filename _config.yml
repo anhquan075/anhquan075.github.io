@@ -1,6 +1,6 @@
 # main text of home
 name: Nguyen Le Anh Quan
-bio: A Man who travels the world eating noodles
+bio: A man who just wants sleep 8 hours per day
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -55,7 +55,7 @@ email: nguyenlequan02@gmail.com
 authors:
   nguyenanhquan:
     name: Nguyen Le Anh Quan
-    bio: A Man who travels the world eating noodles
+    bio: A man who just wants sleep 8 hours per day
     external-image: true
     picture: assets/images/profile_1.jpg
     facebook: anhquandz0soai
@@ -67,7 +67,7 @@ width: normal
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
-  enabled: false
+  enabled: true
   sort_reverse: true # display recent posts first
   title: ":title" # Changing this will mess up the header display logic
   per_page: 5
