@@ -1,5 +1,4 @@
-# main text of home
-# name: Nguyen Le Anh Quan
+name: "Nguyen Le Anh Quan"
 bio: "Test"
 
 # twitter summary info
@@ -7,19 +6,19 @@ description: "A blog about technology and stuff related"
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: assets/images/profile_1.jpg
+external-image: "true"
+picture: "assets/images/profile_1.jpg"
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume: "true"
+resume-external: "true"
+resume-url: "https://google.com/?q=my+resume"
 
-url: https://anhquan075.github.io
+url: "https://anhquan075.github.io"
 # your url: https://USERNAME.github.io
 
-permalink: /:title/
+permalink: "/:title/"
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
@@ -29,19 +28,19 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+#disqus:
+  #shortname: mydisqus # enter this from your disqus account
+  #categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: anhquandz0soai
+facebook: "anhquandz0soai"
 # twitter: mytwitter
-instagram: aquan1sme
+instagram: "aquan1sme"
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: Quân Nguy?n
-github: anhquan075
+github: "anhquan075"
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -50,7 +49,7 @@ github: anhquan075
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: nguyenlequan02@gmail.com
+email: "nguyenlequan02@gmail.com"
 
 authors:
   johndoe:
