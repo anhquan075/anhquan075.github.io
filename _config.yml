@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://anhquan075.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,23 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
+facebook: anhquandz0soai
+# twitter: mytwitter
+instagram: aquan1sme
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
-# spotify: myspotify
-github: mygithub
+spotify: Quân Nguy?n
+github: anhquan075
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: nguyenlequan05@gmail.com
 
 authors:
   johndoe:
