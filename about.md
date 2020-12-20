@@ -2,17 +2,18 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
+ <a href="url"><img src="https://raw.githubusercontent.com/anhquan075/anhquan075.github.io/main/assets/images/profile_1.jpg" height="auto" width="200" style="border-radius:50%"></a>
 
 <blockquote align="center">"Stay out of my territory" - Walter White"</blockquote >
 
-<p align="center">Hello mọi người, mình tên là Nguyễn Lê Anh Quân, hiện đang là sinh viên năm 2 học tại trường Đại học Công Nghệ Thông Tin - ĐHQG Tp.HCM, 
-chuyên ngành Khoa học máy tính (Computer Science). Mình lập blog này để chia sẻ về công nghệ và những thứ linh tinh xung quanh mình. 
-Hi vọng mọi người ủng hộ nhiều nhiều. </p>
 
 <p align="center">Hello everyone, my name is Nguyen Le Anh Quan, I am currently a 2nd year student at University of Information Technology - VNU Ho Chi Minh City,
 majoring in Computer Science. I set up this blog to share about technology and miscellaneous things around me.
 Hope you all support.</p>
+
+<p align="center">Hello mọi người, mình tên là Nguyễn Lê Anh Quân, hiện đang là sinh viên năm 2 học tại trường Đại học Công Nghệ Thông Tin - ĐHQG Tp.HCM, 
+chuyên ngành Khoa học máy tính (Computer Science). Mình lập blog này để chia sẻ về công nghệ và những thứ linh tinh xung quanh mình. 
+Hi vọng mọi người ủng hộ nhiều nhiều. </p>
 
 <h2>Skills</h2>
 
