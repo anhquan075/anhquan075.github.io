@@ -4,8 +4,8 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
+<blockquote>"Stay out of my territory" - Walter White"</blockquote >
 
-<h2> --- ENGLISH BELOW --- </h2>
 <p>Hello mọi người, mình tên là Nguyễn Lê Anh Quân, hiện đang là sinh viên năm 2 học tại trường Đại học Công Nghệ Thông Tin - ĐHQG Tp.HCM, 
 chuyên ngành Khoa học máy tính (Computer Science). Mình lập blog này để chia sẻ về công nghệ và những thứ linh tinh xung quanh mình. 
 Hi vọng mọi người ủng hộ nhiều nhiều. </p>
