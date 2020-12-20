@@ -4,7 +4,7 @@ layout: page
 ---
 
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
-# <a href="url"><img src="https://raw.githubusercontent.com/anhquan075/anhquan075.github.io/main/assets/images/profile_1.jpg" height="auto" width="200" style="border-radius:50%"></a>
+
 
 <blockquote align="center">"Stay out of my territory" - Walter White"</blockquote >
 
