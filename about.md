@@ -6,7 +6,7 @@ layout: page
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 
-<blockquote align="center">"Stay out of my territory" - Walter White"</blockquote >
+<blockquote align="center">"Stay out of my territory" - Walter White</blockquote >
 
 
 <p align="center">Hello everyone, my name is Nguyen Le Anh Quan, I am currently a 2nd year student at University of Information Technology - VNU Ho Chi Minh City,
